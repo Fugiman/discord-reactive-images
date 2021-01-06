@@ -12,7 +12,7 @@
     "@aws-sdk/client-s3": "^3.1.0",
     "@nuxt/typescript-runtime": "^2.0.0",
     "cookie-parser": "^1.4.5",
-    "core-js": "^3.8.1",
+    "core-js": "^3.8.2",
     "imagemin": "^7.0.1",
     "imagemin-pngquant": "^9.0.1",
     "jose": "^3.0.0",
