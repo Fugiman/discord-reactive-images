@@ -6082,10 +6082,10 @@ jiti@^1.0.0:
   resolved "https://registry.yarnpkg.com/jiti/-/jiti-1.2.0.tgz#15187ac6c49fb5ee4e04700bc05c1d5caed58546"
   integrity sha512-9YR5zusNf4qmOZAIMqja5pTeuojl5mG2sE4IGogwBoxyclX+Wm2yBZDo2nvuwkUOzUg/nmXwiI2Hz7d/d1UCyw==
 
-jose@^3.5.0:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/jose/-/jose-3.5.1.tgz#adc0d5000dbf64a7f4db171d449dbcf6b556b6f0"
-  integrity sha512-BQQJafCDvsmtc/LaK57cjfhU/1AKBhJSbJhKPq+uhrjMoV/sh3/dbk9cm08nAeSGS6j+sjhWoY+LZPUXiKzYzw==
+jose@^3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/jose/-/jose-3.6.2.tgz#e35ebe187306c14a0633b33b277a1550a3a947ee"
+  integrity sha512-JzqHr6UqydWv25HwLzRdBJgMetiPkDBE/WJSyJjhNwN3+GmcHu4yoUgRle0NNViCdfAYMf9DuOG8o+mUW/DXdg==
 
 js-tokens@^4.0.0:
   version "4.0.0"
